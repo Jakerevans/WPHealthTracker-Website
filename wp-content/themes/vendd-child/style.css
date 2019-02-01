@@ -1,6 +1,6 @@
 /*
 Theme Name: Vendd Child Theme
-Template: Vendd
+Template: vendd
 Author: EDD Team
 Author URI: https://easydigitaldownloads.com
 Description: Vendd is a full-featured marketplace theme for Easy Digital Downloads and supporting extensions.
@@ -11,4 +11,4 @@ Text Domain: vendd
 Domain Path: /languages/
 Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-colors, custom-menu, featured-images, full-width-template, rtl-language-support, theme-options, threaded-comments, translation-ready, e-commerce
 */
-.test{text-align:center}
+.menu-main-menu-container{display:inline-block}.header-cart{position:relative;top:initial}.vendd-full-width-html-structure #info-bar{min-height:84px;background-color:#DE235A}.secondary-navigation a{color:#fff}.secondary-navigation a:hover{color:#999}.page-id-18 #content{background-image:url(http://localhost/wphealthtracker/wp-content/themes/vendd-child/assets/img/homepagebackground.jpg);background-size:cover}

@@ -30,7 +30,30 @@ Font Awesome Licenses:
  *  BEGIN IMPORTS
 */
 
-@import '_venddchild-frontend-ui.scss';
+/*
+ *   BEGIN COLOR VARIABLES
+*/
+$primary-color: #DE235A;
+$primary-color-border: #b11c48;
+$verylight-primary-color: #FAE6EC;
+$slightly-darker-primary: #F8DEE6;
+$slightly-darker-primary-border: #DFC7CF;
+$secondary-yellow: #F8C849;
+$purewhite: #FFFFFF;
+$pureblack: #000000;
+$darkgray: #999;
+$lightgray: #CCCCCC;
+$white-trans-9:rgba(255, 255, 255, 0.9);
+$primary-box-shadow:2px 2px 5px $pureblack;
+$primary-box-shadow-inset: inset 2px 2px 5px $pureblack;
+$menu-text-shadow: 1px 1px black;
+/*
+ *   END COLOR VARIABLES
+*/
+
+@import '_venddchild-frontend-header.scss';
+@import '_venddchild-frontend-homepage.scss';
+
 
 
 /*

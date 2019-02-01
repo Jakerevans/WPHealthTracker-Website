@@ -23,7 +23,7 @@ var gulp   = require( 'gulp' ),
 	zip    = require( 'gulp-zip' ),
 	del    = require( 'del' );
 
-var cssCommentBlock = "/*\nTheme Name: Vendd Child Theme\nTemplate: Vendd\nAuthor: EDD Team\nAuthor URI: https://easydigitaldownloads.com\nDescription: Vendd is a full-featured marketplace theme for Easy Digital Downloads and supporting extensions.\nVersion: 1.2.4\nLicense: GNU General Public License v2 or later\nLicense URI: http://www.gnu.org/licenses/gpl-2.0.html\nText Domain: vendd\nDomain Path: /languages/\nTags: one-column, two-columns, right-sidebar, accessibility-ready, custom-colors, custom-menu, featured-images, full-width-template, rtl-language-support, theme-options, threaded-comments, translation-ready, e-commerce\n*/\n";
+var cssCommentBlock = "/*\nTheme Name: Vendd Child Theme\nTemplate: vendd\nAuthor: EDD Team\nAuthor URI: https://easydigitaldownloads.com\nDescription: Vendd is a full-featured marketplace theme for Easy Digital Downloads and supporting extensions.\nVersion: 1.2.4\nLicense: GNU General Public License v2 or later\nLicense URI: http://www.gnu.org/licenses/gpl-2.0.html\nText Domain: vendd\nDomain Path: /languages/\nTags: one-column, two-columns, right-sidebar, accessibility-ready, custom-colors, custom-menu, featured-images, full-width-template, rtl-language-support, theme-options, threaded-comments, translation-ready, e-commerce\n*/\n";
 
 var sassFrontendSource        = [ 'dev/scss/venddchild-main-frontend.scss' ];
 var sassBackendSource         = [ 'dev/scss/venddchild-main-admin.scss' ];
